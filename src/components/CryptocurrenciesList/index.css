@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+/* CryptocurrenciesList Styles */
+.cryptocurrencies-list-container {
+  background-color: #092e33;
+  padding: 15px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  border-bottom: 1px solid #ffffff;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+.list-header p {
+  flex: 1;
+  text-align: center;
+  color: #00e7ff;
+}
+
+.cryptocurrency-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,33 @@
+/* Write your CSS here */
+/* CryptocurrencyTracker Styles */
+.cryptocurrency-tracker {
+  background-color: #000000;
+  min-height: 100vh;
+  padding: 20px;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  font-size: 32px;
+  color: #00e7ff;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.bg-image {
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  max-width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+}
